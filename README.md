@@ -1,13 +1,16 @@
-# My First Repo 🚀
+# My First Repository
 
-Hi, I'm **Sourav** 👋  
-🎓 B.Tech CSE student | 🐍 Learning Python | 🤖 Future AI/ML Engineer
+Hi, I’m **Sourav Mondal**, a B.Tech CSE student currently diving into Python with a strong interest in Artificial Intelligence and Machine Learning.
 
-This is my very first GitHub repository where I'll be:
-- Practicing Python basics
-- Documenting my learning journey
-- Slowly building toward Machine Learning & AI projects
+This repository marks the beginning of my development journey. Here, I’ll be:
+- Practicing Python fundamentals
+- Exploring core concepts through hands-on coding
+- Documenting my progress as I build toward more advanced AI/ML projects
 
-Stay tuned as I commit my growth! 🌱
+### About Me
+- 🎓 Computer Science undergraduate
+- 🔍 Focused on Python, AI, and real-world problem solving
+- 💡 Passionate about continuous learning and self-improvement through code
 
-> “Every expert was once a beginner.”
+This is my first step — many more to come.
+
