@@ -1,6 +1,6 @@
 # My First Repository
 
-Hi, I’m **Sourav Mondal**, a B.Tech CSE student currently diving into Python with a strong interest in Artificial Intelligence and Machine Learning.
+Hi, I’m **Sourav Mondal** here, a B.Tech CSE student currently diving into Python with a strong interest in Artificial Intelligence and Machine Learning.
 
 This repository marks the beginning of my development journey. Here, I’ll be:
 - Practicing Python fundamentals
