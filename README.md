@@ -11,6 +11,3 @@ This repository marks the beginning of my development journey. Here, I’ll be:
 - 🎓 Computer Science undergraduate
 - 🔍 Focused on Python, AI, and real-world problem solving
 - 💡 Passionate about continuous learning and self-improvement through code
-
-This is my first step — many more to come.
-
